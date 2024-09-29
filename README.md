@@ -1,1 +1,1 @@
-This is a smaple readme.
+This is a sample readme.
